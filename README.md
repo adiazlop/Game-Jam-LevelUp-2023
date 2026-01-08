@@ -1,19 +1,16 @@
-README.md for Game-Jam-LevelUp-2023
-# Game Jam LevelUp 2023
-
-## Project Overview
+# Sea Dryads - Game Jam LevelUp 2023
 
 Game Jam LevelUp 2023 is a collaborative game development project created for the LevelUp Game Jam 2023. The game is designed to showcase rapid prototyping, teamwork, and creativity within a limited time frame.
 
-This project was developed using [Unity / Phaser / specify engine if needed] and focuses on [brief description of the game mechanics or theme].
+This project was developed using Unity and programmed from scratch in C#. 
 
 ---
 
 ## Roles
 
-- **Main Programmer**: Responsible for coding the core gameplay systems, implementing mechanics, and ensuring the project runs efficiently.  
+- **Main Programmer**: Responsible for coding in C# the player controller and gameplay Systems (Scoring, Mechanics, Scene Management)
 - **Game Designer**: Designed game mechanics, levels, and player experience.  
-- **Team Lead**: Coordinated team workflow, managed deadlines, and oversaw project progress.
+- **Team Lead**: Coordinated team workflow using Trello, managed Git workflow and organization in an agile framework. 
 
 ---
 
