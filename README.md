@@ -5,7 +5,7 @@ Sea Dryads: Protectors of the Ocean is a short environmental adventure game deve
 
 This project was developed using Unity and programmed from scratch in C#. 
 
-![Gameplay Screenshot](assets/screenshot1.png)
+![](LevelUpGameJam/Assets/Screenshots/Title.gif)
 
 ## Key Features
 
@@ -14,13 +14,15 @@ This project was developed using Unity and programmed from scratch in C#.
 - Recycling system that directly affects ecosystem balance
 - Stylized fantasy setting with low-poly 3D visuals
 
-![Gameplay Screenshot](assets/screenshot1.png)
+![](LevelUpGameJam/Assets/Screenshots/Screen1.gif)
 
 ## Roles
 
 - **Main Programmer**: Responsible for coding in C# the player controller and gameplay Systems (Scoring, Mechanics, Scene Management)
 - **Game Designer**: Designed game mechanics, levels, and player experience.  
 - **Team Lead**: Coordinated team workflow using Trello, managed Git workflow and organization in an agile framework. 
+
+![](LevelUpGameJam/Assets/Screenshots/Screen2.gif)
 
 ## Installation
 
